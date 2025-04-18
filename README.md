@@ -6,6 +6,8 @@
 
 The task involved processing emoloyee data from various files in different formats, focusing on JSON data to eventually migrate to SQL database and perform additional data analysis.
 
+
+---
 ## Steps:
 
 - Printed number of files with the term "employee" in the file name
